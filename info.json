@@ -1,6 +1,6 @@
 {
-    "isim": "Minecraft Clone",
-    "aciklama": "Web tabanlı Minecraft clone projem.",
-    "gorunurluluk": true,
-    "game": true
+  "isim": "Minecraft Klonu",
+  "aciklama": "Web Minecraft",
+  "gorunurluluk": true,
+  "game": true
 }
